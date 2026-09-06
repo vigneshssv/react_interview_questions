@@ -17,8 +17,10 @@ Basics
    ex: child A - pass setCount, child B - pass count
 9. Debouncing - user stop triggering a event to call for a function. Ex: search Filter
 10. Throttling - function run particular time period once. mostly used for scroll event, window resize event
-11. react-virtualized - react-window. handle the tho
-
+11. react-virtualized - react-window
+    Screen need to list a thousands of records, list screen show 20 records first, scroll to show next records based on screen size.
+12. React.StrictMode - identify potential problems for development
+13.  
 Advanced Questions
 1. micro front end
 2. indexing DB
